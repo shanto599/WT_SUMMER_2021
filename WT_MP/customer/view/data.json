@@ -1,0 +1,74 @@
+[
+    {
+        "fname": "Mithun",
+        "lname": "fffff",
+        "username": "ffff",
+        "email": "acvf@gmail.com",
+        "password": "890344",
+        "gender": "male",
+        "electrician": "electrician",
+        "cleaner": "",
+        "other": "",
+        "atime": "12:44"
+    },
+    {
+        "fname": "Md",
+        "lname": "sasa",
+        "username": "shan10",
+        "email": "abc@gmail.com",
+        "password": "sssssssssssss",
+        "gender": "male",
+        "electrician": "electrician",
+        "cleaner": "cleaner",
+        "other": "",
+        "atime": "03:06"
+    },
+    {
+        "fname": "Md",
+        "lname": "Shanto",
+        "username": "dsfsdf",
+        "email": "abc@gmail.com",
+        "password": "012345",
+        "gender": "male",
+        "electrician": "electrician",
+        "cleaner": "",
+        "other": "",
+        "atime": "06:04"
+    },
+    {
+        "fname": "",
+        "lname": "",
+        "username": "",
+        "email": "",
+        "password": "",
+        "gender": "",
+        "electrician": "",
+        "cleaner": "",
+        "other": "",
+        "atime": ""
+    },
+    {
+        "fname": "",
+        "lname": "",
+        "username": "",
+        "email": "",
+        "password": "",
+        "gender": "",
+        "electrician": "",
+        "cleaner": "",
+        "other": "",
+        "atime": ""
+    },
+    {
+        "fname": "Md",
+        "lname": "Shanto",
+        "username": "abc123",
+        "email": "abc@gmail.com",
+        "password": "012345",
+        "gender": "male",
+        "electrician": "electrician",
+        "cleaner": "",
+        "other": "",
+        "atime": "18:35"
+    }
+]

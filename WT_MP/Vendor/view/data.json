@@ -1,0 +1,58 @@
+[
+    {
+        "mname": "Mithun",
+        "email": "mithunchanda1999@gmail.com",
+        "phone": "01789034490",
+        "address": "laksam",
+        "gender": "male",
+        "password": "147852",
+        "electrician": "electrician",
+        "cleaner": "",
+        "other": ""
+    },
+    {
+        "mname": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "gender": "male",
+        "password": "",
+        "Profession": null
+    },
+    {
+        "mname": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "gender": "male",
+        "password": "",
+        "Profession": "electrician  "
+    },
+    {
+        "mname": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "gender": "",
+        "password": "",
+        "Profession": "electrician cleaner "
+    },
+    {
+        "mname": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "gender": "",
+        "password": "",
+        "Profession": "electrician cleaner "
+    },
+    {
+        "mname": "zxczxcxzczx",
+        "email": "abc@gmail.com",
+        "phone": "0122424242",
+        "address": "sdfsdfs",
+        "gender": "male",
+        "password": "sssssssssss",
+        "Profession": "electrician  "
+    }
+]
